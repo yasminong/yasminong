@@ -16,25 +16,6 @@ When I’m not coding, I’m probably exploring how business systems (like SAP!)
 
 ---
 
-### 💻 Current Work
-
-**Frontend Developer @ Trigon Tech Sdn Bhd** (Oct 2024 – Present, Selangor, MY)
-
-- Integrated RESTful APIs and managed state using **Redux**
-- Built responsive UI with **React**, **TypeScript**, and **CSS**
-- Collaborated in **Agile sprints** to deliver user-focused interfaces
-- Wrote reusable, scalable components for faster development
-- Optimized performance and maintained cross-browser compatibility
-
-**Digital Delivery Intern @ Ranhill Worley Sdn Bhd** (Mar 2024 – Aug 2024, Kuala Lumpur, MY)
-
-- Automated Word document generation with **Python-docx**
-- Extracted and transformed Excel data into formatted templates
-- Built a **C# WPF file manager app** for Navisworks projects
-- Implemented local drive access restrictions for efficiency
-
----
-
 ### 🧩 Tech Stack
 
 **Frontend:** React · TypeScript · Redux · HTML · CSS  · Next js  
