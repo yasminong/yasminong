@@ -28,6 +28,7 @@ When I’m not coding, I’m probably exploring how business systems (like SAP!)
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="Bootstrap" />
   <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" height="40" alt="Tailwind CSS" />
+  <img src="https://www.vectorlogo.zone/logos/nextjs/nextjs-icon.svg" height="40" alt="Tailwind CSS" />
 </p>
 
 #### ⚙️ Backend
